@@ -4,7 +4,7 @@ This Python script generates secure and random passwords based on user specifica
 
 Usage
 Clone the Repository:
-git clone https://github.com/your-chamarac99/Random-password-generator.git
+git clone https://github.com/chamarac99/Random-password-generator.git
 cd Random-password-generator
 
 Run the Script:
